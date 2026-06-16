@@ -1,0 +1,20 @@
+# YOLO models (IMPORTANT)
+*.pt
+*.onnx
+
+# runs & outputs
+runs/
+output/
+results/
+
+# videos
+*.mp4
+*.avi
+*.mov
+
+# python cache
+__pycache__/
+*.pyc
+
+# notebooks checkpoints
+.ipynb_checkpoints/
